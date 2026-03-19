@@ -1,4 +1,4 @@
-# 📘 Chapter 2: Variables and Simple Data Types
+# 📘  Variables and Simple Data Types
 
 ## 🚀 What I Learned
 - How variables work in Python
